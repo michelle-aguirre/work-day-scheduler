@@ -2,7 +2,7 @@
 
 ## Deploy
 
-[Deployed Link](https://michelle-aguirre.github.io/michelle_portfolio/)
+[Deployed Link](https://github.com/michelle-aguirre/work-day-scheduler.git)
 
 ## Description
 
